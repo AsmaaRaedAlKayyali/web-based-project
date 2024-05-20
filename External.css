@@ -1,0 +1,7 @@
+a:link{color: brown}
+a:visited{color: rgb(0, 0, 0)}
+a:hover{color: beige;
+background-color: rgb(124, 116, 116);}
+a:active{background-color: beige; color:black;}
+nav{background-color: burlywood;
+}
